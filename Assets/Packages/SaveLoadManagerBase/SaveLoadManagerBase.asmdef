@@ -1,0 +1,16 @@
+{
+    "name": "SaveLoadManagerBase",
+    "rootNamespace": "",
+    "references": [
+        "GUID:43dd3f0c7ecda0f40b03f362c16f8cce"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
