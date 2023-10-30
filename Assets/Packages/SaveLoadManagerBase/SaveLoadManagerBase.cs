@@ -12,7 +12,7 @@ public abstract class SaveLoadManagerBase : SingletonMonoBehaviour<SaveLoadManag
 
     #region Property
 
-    public string SaveDir => string.IsNullOrWhiteSpace(saveDir) ? SceneManager.GetActiveScene().name : saveDir;
+    public virtual string SaveDir => string.IsNullOrWhiteSpace(saveDir) ? SceneManager.GetActiveScene().name : saveDir;
 
     #endregion Property
 
